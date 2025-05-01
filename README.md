@@ -7,7 +7,7 @@
 
   
 
-    <image src="https://github.com/daniamdrei/daniamdrei/blob/main/ChatGPT%20Image%20May%201,%202025,%2003_00_32%20PM.png?raw=true" width='200px' hight="200px"/>
+    <img src="https://github.com/daniamdrei/daniamdrei/blob/main/ChatGPT%20Image%20May%201,%202025,%2003_00_32%20PM.png?raw=true" width='200px' hight="200px"/>
 
 <!--## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dania-mdra/) 

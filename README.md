@@ -1,13 +1,15 @@
-<div style="width: 200px;height: auto;border-radius: 20px;">
-  <div style=" display: flex;align-items: center; max-width: 800px; margin: 0 auto;padding: 40px;font-family: Arial, sans-serif;">
-    <img src="https://github.com/daniamdrei/daniamdrei/blob/main/ChatGPT%20Image%20May%201,%202025,%2003_00_32%20PM.png?raw=true" width='200px' hight="200px" alt="Floating Coder Girl">
-  </div>
-  <div class="about-text">
-    <h2>About Me</h2>
-    <pre>💫 About Me:
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/daniamdrei/daniamdrei/blob/main/ChatGPT%20Image%20May%201,%202025,%2003_00_32%20PM.png?raw=true" width='200px' hight="200px" alt="Floating Coder Girl" width="200"/>
+    </td>
+    <td>
+      <h3>About Me</h3>
+      <pre>💫 About Me:
 👋 Hi, I'm Dania — a Full-Stack Developer with a passion for building scalable web applications.<br>💻 I work with technologies like php, laravel, bootstrap, js, Mysql, and more.<br>🚀 I enjoy turning ideas into code and solving real-world problems.<br>🔧 Currently exploring [React, Vue.js, DevOps] and always open to learning new tools and frameworks.</pre>
-  </div>
-</div>
+    </td>
+  </tr>
+</table>
 
 
 <!--## 🌐 Socials:

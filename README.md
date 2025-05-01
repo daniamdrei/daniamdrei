@@ -1,6 +1,6 @@
 
-      <img src="https://github.com/daniamdrei/daniamdrei/blob/main/ChatGPT%20Image%20May%201,%202025,%2003_00_32%20PM.png?raw=true" width='250px' hight="250px" alt="Floating Coder Girl" width="200"/>
-   
+      <img src="https://github.com/daniamdrei/daniamdrei/blob/main/ChatGPT%20Image%20May%201,%202025,%2003_00_32%20PM.png?raw=true" width='250px' hight="250px"alt="Floating Coder Girl" width="200"/>
+
       <pre>💫 About Me:
       👋 Hi, I'm Dania — a Full-Stack Developer with a passion for 
         building scalable web applications.

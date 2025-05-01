@@ -63,7 +63,8 @@
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=daniamdrei&show_icons=true&locale=en&layout=compact" alt="daniamdrei" /></p>
 
 <picture>
-<source media="(prefers-color-scheme:light)" srcset="https://raw.githubusercontent.com/daniamdrei/daniamdrei/output/github-snak.svg" />
+<source media="(prefers-color-scheme:light)" srcset="https://raw.githubusercontent.com/daniamdrei/daniamdrei/output/github-snake.svg" />
+  <source media="(prefers-color-scheme:dark)" srcset="https://raw.githubusercontent.com/daniamdrei/daniamdrei/output/github-snake-dark.svg" />
 <img src="https://raw.githubusercontent.com/daniamdrei/daniamdrei/output/snake.svg" alt="Snake animation" />
 </picture>
 ###

@@ -1,12 +1,12 @@
 <table>
   <tr>
     <td>
-      <img src="https://github.com/daniamdrei/daniamdrei/blob/main/ChatGPT%20Image%20May%201,%202025,%2003_00_32%20PM.png?raw=true" width='200px' hight="200px" alt="Floating Coder Girl" width="200"/>
+      <img src="https://github.com/daniamdrei/daniamdrei/blob/main/ChatGPT%20Image%20May%201,%202025,%2003_00_32%20PM.png?raw=true" width='250px' hight="250px" alt="Floating Coder Girl" width="200"/>
     </td>
     <td>
-      <h3>About Me</h3>
+      <h3>💫About Me</h3>
       <pre>💫 About Me:
-👋 Hi, I'm Dania — a Full-Stack Developer with a passion for 
+      👋 Hi, I'm Dania — a Full-Stack Developer with a passion for 
         building scalable web applications.
         💻 I work with technologies like php, laravel,
         bootstrap, js, Mysql, and more.

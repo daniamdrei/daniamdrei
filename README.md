@@ -1,6 +1,4 @@
 
-https://chatgpt.com/s/m_6813680b19788191a3d4cf3a9ec7a27b
-
 
 # 💫 About Me:
 👋 Hi, I'm Dania — a Full-Stack Developer with a passion for building scalable web applications.<br>💻 I work with technologies like php, laravel, bootstrap, js, Mysql, and more.<br>🚀 I enjoy turning ideas into code and solving real-world problems.<br>🔧 Currently exploring [React, Vue.js, DevOps] and always open to learning new tools and frameworks.
@@ -63,6 +61,10 @@ https://chatgpt.com/s/m_6813680b19788191a3d4cf3a9ec7a27b
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=daniamdrei&show_icons=true&locale=en" alt="daniamdrei" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daniamdrei&" alt="daniamdrei" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=daniamdrei&show_icons=true&locale=en&layout=compact" alt="daniamdrei" /></p>
+
+<img src="https://raw.githubusercontent.com/daniamdrei/daniamdrei/output/snake.svg" alt="Snake animation" />
+
+###
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daniamdrei" alt="daniamdrei" /></a></p>
 
 ### 🔝 Top Contributed Repo

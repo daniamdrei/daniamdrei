@@ -62,8 +62,10 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daniamdrei&" alt="daniamdrei" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=daniamdrei&show_icons=true&locale=en&layout=compact" alt="daniamdrei" /></p>
 
+<picture>
+<source media="(prefers-color-sceme:ligjt)" srcset="https://raw.githubusercontent.com/daniamdrei/daniamdrei/output/github-snak.svg" />
 <img src="https://raw.githubusercontent.com/daniamdrei/daniamdrei/output/snake.svg" alt="Snake animation" />
-
+</picture>
 ###
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daniamdrei" alt="daniamdrei" /></a></p>
 

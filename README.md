@@ -62,6 +62,4 @@
 <img src="https://raw.githubusercontent.com/daniamdrei/daniamdrei/output/snake.svg" alt="Snake animation" />
 </picture>
 ###
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daniamdrei" alt="daniamdrei" /></a></p>
-
 

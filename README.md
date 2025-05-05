@@ -3,7 +3,7 @@
 ![image alt](https://github.com/daniamdrei/daniamdrei/raw/main/WhatsApp%20Image%202025-05-01%20at%2017.52.54_4ed6537b.jpg?raw=true)
 
 # 💫 About Me:
-👋 Hi, I'm Dania — a Full-Stack Developer with a passion for building scalable web applications.<br>💻 I work with technologies like php, laravel, bootstrap, js, Mysql, and more.<br>🚀 I enjoy turning ideas into code and solving real-world problems.<br>🔧 Currently exploring [React, Vue.js, DevOps] and always open to learning new tools and frameworks.
+👋 Hi, I'm Dania — a Full-Stack Developer with a passion for building scalable web applications.<br>💻 I work with technologies like php, laravel, bootstrap, js, Mysql, and more.<br>🚀 I enjoy turning ideas into code and solving real-world problems.<br>🔧 Currently exploring [React, Vue.js] and always open to learning new tools and frameworks.
 
 <!--## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dania-mdra/) 

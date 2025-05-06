@@ -10,7 +10,6 @@
 ![Portfolio](https://daniamdrei.github.io/portfolio-/)
  
 # 💻 Tech Stack:
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
   <img width="12" />
@@ -41,9 +40,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=daniamdrei&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=daniamdrei&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
--->
-<h1></h1>
-<p></p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="42" height="42" /></a>
@@ -62,5 +58,5 @@
 <source media="(prefers-color-scheme:light)" srcset="https://raw.githubusercontent.com/daniamdrei/daniamdrei/output/github-snake.svg" />
 <img src="https://raw.githubusercontent.com/daniamdrei/daniamdrei/output/snake.svg" alt="Snake animation" />
 </picture>
-###
+
 

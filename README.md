@@ -7,10 +7,8 @@
 
 <!--## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dania-mdra/)
-
-
+![Portfolio](https://daniamdrei.github.io/portfolio-/)
  
-
 # 💻 Tech Stack:
 
 <div align="left">

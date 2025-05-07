@@ -4,7 +4,8 @@
 
 <div align="center"> 
  <h1> 💫 About Me: </h1>
- <p> 👋 Hi, I'm Dania — a Full-Stack Developer with a passion for building scalable web applications.<br>💻 I work with technologies like php, laravel, bootstrap, js, Mysql, and more.<br>🚀 I enjoy turning ideas into code and solving real-world problems.<br>🔧 Currently exploring [React, Vue.js] and always open to learning new tools and frameworks.
+ <p> 👋 Hi, I'm Dania — a Full-Stack Developer with a passion for building scalable web applications.<br>💻 I work with technologies like php, laravel, bootstrap, js, Mysql, and more.<br>🚀 I enjoy turning ideas into code and solving real-world problems.<br>🔧 Currently exploring [React, Vue.js] and always open to learning new tools and frameworks. <br>
+ my portfolio (https://portfolio-two-xi-37.vercel.app/)
  </p>
 </div>
 
